@@ -1,5 +1,7 @@
 # Table of Contents
 
+* [Introduction](README.md)
+
 ### React
 
 * [The Basics](docs/react/the-basics.md)
@@ -19,15 +21,17 @@
 
 ### Developer Guide
 
-* [Developer Guide](docs/developer-guide/README.md)
-    * [Setting Up Your Environment](docs/developer-guide/setting-up-your-environment.md)
-    * [What Does `yarn start` Really Do?](docs/developer-guide/yarn-start.md)
-    * [Why Are We Using Express?](docs/developer-guide/express-usage.md)
-    * [Foreman and Procfiles](docs/developer-guide/foreman-and-procfiles.md)
-    * [Running Only The UI Server](docs/developer-guide/running-the-ui-server.md)
-    * [Running Only The Express Server](docs/developer-guide/running-the-express-server.md)
-    * [Bundled into Single Deploy (the easy way)](docs/developer-guide/bundled-deployment.md)
-    * [The Semi-Microservice Approach (a bit harder, but still easy)](docs/developer-guide/semi-microservice-deployment.md)
+* [Introduction](docs/developer-guide/README.md)
+* [Setting Up Your Environment](docs/developer-guide/setting-up-your-environment.md)
+* [What Does `yarn start` Really Do?](docs/developer-guide/yarn-start.md)
+* [Why Are We Using Express?](docs/developer-guide/express-usage.md)
+* [Foreman and Procfiles](docs/developer-guide/foreman-and-procfiles.md)
+* [Running Only The UI Server](docs/developer-guide/running-the-ui-server.md)
+* [Running Only The Express Server](docs/developer-guide/running-the-express-server.md)
+* [Bundled into Single Deploy (the easy way)](docs/developer-guide/bundled-deployment.md)
+* [The Semi-Microservice Approach (a bit harder, but still easy)](docs/developer-guide/semi-microservice-deployment.md)
+
+### Miscellaneous
 
 * [Common Problems](docs/common-problems.md)
 * [Additional Resources](docs/additional-resources.md)
