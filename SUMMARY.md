@@ -1,2 +1,27 @@
-docs/toc.md
+# Table of Contents
 
+- React
+    - [The Basics](react/the-basics.md)
+    - [Components](react/components.md)
+    - [Props](react/props.md)
+    - [Using Props](react/using-props.md)
+    - [PropTypes](react/proptypes.md)
+    - [State](react/state.md)
+    - [React.Component vs Functional Components](react/react-component-vs-functional-component.md)
+- Additional Reading
+    - [Redux](additional-reading/redux.md)
+    - React Router
+    - Webpack
+    - Yarn
+- [Developer Guide](developer-guide/README.md)
+    - [Setting Up Your Environment](developer-guide/setting-up-your-environment.md)
+    - [What Does `yarn start` Really Do?](developer-guide/yarn-start.md)
+    - [Why Are We Using Express?](developer-guide/express-usage.md)
+    - [Foreman and Procfiles](developer-guide/foreman-and-procfiles.md)
+    - [Running Only The UI Server](developer-guide/running-the-ui-server.md)
+    - [Running Only The Express Server](developer-guide/running-the-express-server.md)
+    - [Bundled into Single Deploy (the easy way)](developer-guide/bundled-deployment.md)
+    - [The Semi-Microservice Approach (a bit harder, but still easy)](developer-guide/semi-microservice-deployment.md)
+- [Common Problems](common-problems.md)
+- [Additional Resources](additional-resources.md)
+- [Create React App Guide](create-react-app-readme.md)
